@@ -1,9 +1,9 @@
 ## Bus Administration System.
 
 * [Overview](#overview)
-* [Project Details](#projectdetails)
+* [Project Details](#project)
 * [Motivation](#motivation)
-* [Feature Scope](#featurescope)
+* [Feature Scope](#feature)
 * [Conclusion](#conclusion)
 
 ## Overview
