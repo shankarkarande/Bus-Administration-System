@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [Project Details](#project)
 * [Motivation](#motivation)
-* [Feature Scope](#feature)
+* [Advantages](#advantages)
 * [Conclusion](#conclusion)
 
 ## Overview
@@ -15,7 +15,7 @@ Bus reservation system is a very simple project showing the implementation of cl
 ## Motivation
 Basically, an online reservation system allows a potential customer to book and pay for a service directly through a website. That means from the moment a customer decides they want to book a slot for your service (be it an in-house class or online appointment) to choosing a date, picking a time, and paying for the booking, membership management, everything is handled online! It greatly reduces the workload on your staff and removes the opportunity for double-bookings.
 
-## Feature Scope
+## Advantages
 
 * No Waiting in Queue.
 * No need to give cash on counter.
