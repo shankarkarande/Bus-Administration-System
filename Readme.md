@@ -1,10 +1,10 @@
 ## Bus Administration System.
 
 * [Overview](#overview)
-* [Project Details](#projectD)
+* [Project Details](#ProjectDetails)
 * [Motivation](#motivation)
-* [Feature Scope](#featureS)
-* [Conclusion](#conclusion)
+* [Feature Scope](#FeatureScope)
+* [Conclusion](#Conclusion)
 
 ## Overview
 This is Bus Administration System which provide multiple services.
